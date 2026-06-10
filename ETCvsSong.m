@@ -2,7 +2,7 @@
 % Paper: Ghazal, Ben Rached, Al-Naffouri (2025), §VI.B
 % Distribution: Jakes' correlation, M=8, m=4, K=0.4, Omega=1, d=lambda
 % Runtime: ~3 min on a standard laptop (NMC is the dominant cost)
-% Output: table matching Table VIII in the paper, printed to console
+% Output: table matching Table VI in the paper, printed to console
 %
 % Asymptotic formula from:
 %   X. Song and J. Cheng, "Asymptotic Analysis of GSC Over Arbitrarily
