@@ -12,7 +12,8 @@
 %   2) MLS follows Ben Rached et al. (2020), but carries only the
 %      surviving Gamma-process states and vectorizes each level.
 % It also appends the remaining stochastic methods used in Table II:
-%   UIS, PIS, ET, CE, ETC, and CEC.
+%   UIS, PIS, ET, CE, ETC, and CEC. Note that ETC and CEC were not shown
+% in the paper. 
 %
 % Defaults are smoke-test sized so the script can be run quickly. Set
 % run_nmc_full and run_mls_full to true to reproduce the paper settings.
